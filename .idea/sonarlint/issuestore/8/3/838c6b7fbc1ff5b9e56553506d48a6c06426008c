@@ -1,0 +1,11 @@
+
+V
+java:S18541"@Remove this useless assignment to local variable "forkJoinTask".(ÿ˚Ìñ
+ó
+java:S1130+"ÄRemove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(≠ÀêÍ
+ç
+java:S1130+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(≠ÀêÍ
+G
+java:S14811"1Remove this unused "forkJoinTask" local variable.(ÿ˚Ìñ
+V	java:S1250"<This block of commented-out lines of code should be removed.(Ùê†ù˚ˇˇˇˇ
+V	java:S1252"<This block of commented-out lines of code should be removed.(∏∆˝é˝ˇˇˇˇ

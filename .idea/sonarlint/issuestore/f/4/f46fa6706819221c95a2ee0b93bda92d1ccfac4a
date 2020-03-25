@@ -1,0 +1,10 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(›¤ü‚
+]
+java:S1128"GRemove this unused import 'sun.text.resources.cldr.lag.FormatData_lag'.(›¤ü‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(ÔÈËêÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(º†¯Ÿúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ö£‹°þÿÿÿÿ

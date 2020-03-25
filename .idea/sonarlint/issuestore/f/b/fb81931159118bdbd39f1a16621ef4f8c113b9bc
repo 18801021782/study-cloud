@@ -1,0 +1,31 @@
+
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(È÷Çê8ŸÚ¥Ü.
+]	java:S1254"<This block of commented-out lines of code should be removed.(µôàÀıÿÿÿÿ8…ª¦Ü.
+]	java:S125="<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8…ª¦Ü.
+W
+java:S1141K"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÁçÇÜ.
+E
+java:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ø»ÄÜ.
+E
+java:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŸÚ¥Ü.
+E
+java:S1148N"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰—ÆÜ.
+c
+java:S21429"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ø»ÄÜ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ò²Ü.
+E
+java:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÁçÇÜ.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(é¿Œ»8ŸÚ¥Ü.
+c
+java:S2142M"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‰—ÆÜ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ô¬ÅÜ.
+W
+java:S11417"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ø»ÄÜ.
+y
+java:S3077-"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ôé×±úÿÿÿÿ8°’¹Û.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¦Îö¡ùÿÿÿÿ8•àÁÜ.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(ïîÜ¸8•àÁÜ.
+I
+java:S1602$",Remove useless curly braces around statement(¥—ığ8£…ıÛ.
