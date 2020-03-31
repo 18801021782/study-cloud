@@ -23,11 +23,11 @@ public class ReadWriteLockTest {
             final int temp = i;
             new Thread(() -> {
                 myCache.put(temp + "", temp + "");
-                try {
-                    TimeUnit.SECONDS.sleep(1L);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+//                try {
+//                    TimeUnit.SECONDS.sleep(1L);
+//                } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
             }, String.valueOf(i)).start();
         }
         //读取
